@@ -1,1 +1,1 @@
-Creating a new branch is very quick.
+Creating a new branch and Git is a free software is very quick.
